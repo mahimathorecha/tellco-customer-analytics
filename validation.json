@@ -1,0 +1,9 @@
+{
+  "rows_per_csv": 106856,
+  "csv_count": 4,
+  "same_customer_set": true,
+  "unique_nonempty_ids": true,
+  "non_id_data_unchanged": true,
+  "python_files_syntax_checked": 4,
+  "runtime_test": "Not run: Streamlit and Plotly are not installed in the review environment."
+}
